@@ -34,6 +34,13 @@ body {
 
 .control-btn {
   cursor: pointer;
+  text-decoration: none;
+  border: none;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 14px;
+  background-color: blanchedalmond;
 }
 
 .control-colors {
